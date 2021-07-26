@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Sum
+namespace Subtract
 {
     class Program
     {
         static void Main(string[] args)
         {
-           Subtract sumproblem = new Subtract();
-            sumproblem.Subtraction(5,3);
+           SubtractProblem sumproblem = new SubtractProblem();
+            sumproblem.Subtraction(15,3);
         }
     }
 }

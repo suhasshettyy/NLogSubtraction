@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sum
+namespace Subtract
 {
     public class NLog
     {

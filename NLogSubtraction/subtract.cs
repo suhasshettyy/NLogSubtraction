@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sum
+namespace Subtract
 {
-    class Subtract
+    class SubtractProblem
     {
         static NLog nLog = new NLog();
         public int Subtraction(int firstnumber, int secondnumber)

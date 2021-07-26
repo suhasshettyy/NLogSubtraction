@@ -1,12 +1,4 @@
-﻿2021-07-26 13:05:29.7843|INFO|Sum.NLog|Sub method
-2021-07-26 13:05:29.9167|DEBUG|Sum.NLog|Debug Successfull
-2021-07-26 13:05:29.9167|WARN|Sum.NLog|First Number or Second Number is zero.
-2021-07-26 13:06:52.8494|INFO|Sum.NLog|Sub method
-2021-07-26 13:06:52.9082|DEBUG|Sum.NLog|Debug Successfull
-2021-07-26 13:06:52.9082|WARN|Sum.NLog|First Number or Second Number is zero.
-2021-07-26 13:08:03.4751|INFO|Sum.NLog|Sub method
-2021-07-26 13:08:03.5720|DEBUG|Sum.NLog|Debug Successfull
-2021-07-26 13:08:03.5720|WARN|Sum.NLog|First Number or Second Number is zero.8
-2021-07-26 13:09:34.9889|INFO|Sum.NLog|Subtraction method
-2021-07-26 13:09:35.0695|DEBUG|Sum.NLog|Debug Successfull
-2021-07-26 13:09:35.0728|WARN|Sum.NLog|Subtract Method Passed, Result : 2
+﻿
+2021-07-26 13:28:51.3640|INFO|Subtract.NLog|Subtraction method
+2021-07-26 13:28:51.4333|DEBUG|Subtract.NLog|Debug Successfull
+2021-07-26 13:28:51.4333|WARN|Subtract.NLog|Subtract Method Passed, Result : 12
