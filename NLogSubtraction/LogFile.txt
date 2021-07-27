@@ -1,3 +1,3 @@
-﻿2021-07-26 13:32:26.8441|INFO|Subtract.NLog|Subtraction method
-2021-07-26 13:32:26.9843|DEBUG|Subtract.NLog|Debug Successfull
-2021-07-26 13:32:26.9843|WARN|Subtract.NLog|Subtract Method Passed, Result : 12
+﻿2021-07-27 20:59:29.0693|INFO|Subtract.NLog|Subtraction method
+2021-07-27 20:59:29.1186|DEBUG|Subtract.NLog|Debug Successfull
+2021-07-27 20:59:29.1186|WARN|Subtract.NLog|Subtract Method Passed, Result : 12
